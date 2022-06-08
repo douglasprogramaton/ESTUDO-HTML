@@ -1,2 +1,2 @@
 # ESTUDO-HTML
-Curso HTML e CSS Professor Gustavo Guarnabara e da Fundação Bradesco.
+Curso de HTML e CSS do Professor Gustavo Guarnabara e da Fundação Bradesco.
